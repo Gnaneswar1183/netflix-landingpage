@@ -1,4 +1,4 @@
-# netflix-landingpage
+# netflix-clone 
 This is a simple Netflix clone built using basic HTML, CSS, and JavaScript. The purpose of this project is to practice front-end web development skills and create a visually appealing and functional interface similar to Netflix.
 
 Features
